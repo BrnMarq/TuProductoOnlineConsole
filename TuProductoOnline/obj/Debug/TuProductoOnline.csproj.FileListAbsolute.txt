@@ -1,0 +1,8 @@
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\TuProductoOnline\TuProductoOnline\bin\Debug\TuProductoOnline.exe.config
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\TuProductoOnline\TuProductoOnline\bin\Debug\TuProductoOnline.exe
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\TuProductoOnline\TuProductoOnline\bin\Debug\TuProductoOnline.pdb
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\TuProductoOnline\TuProductoOnline\obj\Debug\TuProductoOnline.csproj.AssemblyReference.cache
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\TuProductoOnline\TuProductoOnline\obj\Debug\TuProductoOnline.csproj.SuggestedBindingRedirects.cache
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\TuProductoOnline\TuProductoOnline\obj\Debug\TuProductoOnline.csproj.CoreCompileInputs.cache
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\TuProductoOnline\TuProductoOnline\obj\Debug\TuProductoOnline.exe
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\TuProductoOnline\TuProductoOnline\obj\Debug\TuProductoOnline.pdb
